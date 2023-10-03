@@ -36,7 +36,7 @@ let navigate=useNavigate()
       return (
         <>
           <div className="container">
-            <h2 className="text-center">Check Out</h2>
+           
     
             <form onSubmit={formic.handleSubmit}>  
               <div>
@@ -57,7 +57,7 @@ let navigate=useNavigate()
     
               <button type="submit" className="btn btn-outline-success w-100 mt-4">
                 {" "}
-                Pay Now
+              get code
               </button>
             </form>
           </div>
